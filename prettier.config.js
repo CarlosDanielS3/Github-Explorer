@@ -2,5 +2,5 @@ module.exports
  = {
      singleQuote: true,
      trailingComma: 'all',
-     allowParens: avoid
+    allowParens: "as-needed"
  }
