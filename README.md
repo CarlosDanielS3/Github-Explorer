@@ -25,7 +25,8 @@
 
 # About
 <div align="center">
-![Project 001](https://github.com/CarlosDanielS3/Github-Explorer/blob/main/screenshots/GithubExplorer.gif)
+![GithubExplorer](https://user-images.githubusercontent.com/87034103/138711418-99940255-6514-4027-9be1-1e5c0ba6d8d4.gif)
+
 </div>
 <p> A application to explore the repositories from the GitHub API. This project are made on the GoStack Bootcamp from Rocketseat! </p>
 
