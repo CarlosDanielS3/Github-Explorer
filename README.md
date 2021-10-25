@@ -1,46 +1,49 @@
-# Getting Started with Create React App
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/57778245/92287977-b631f100-eee1-11ea-8b98-35755a8e25ad.png" />
+</p>
+<p align="center">Explore repositories on GitHub</p>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <img src="https://img.shields.io/github/issues/CarlosDanielS3/Github-Explorer?style=flat-square" />
+  <img src="https://img.shields.io/github/forks/CarlosDanielS3/Github-Explorer?style=flat-square" />
+  <img src="https://img.shields.io/github/stars/CarlosDanielS3/Github-Explorer?style=flat-square" />
+  <img src="https://img.shields.io/github/license/CarlosDanielS3/Github-Explorer?style=flat-square" />
+</p>
 
-## Available Scripts
+<h4 align="center">
+	🚧  GitHub Explorer 🚀 Under development...  🚧
+</h4>
 
-In the project directory, you can run:
+<p align="center">
+ <a href="#About">About</a> •
+ <a href="#Features">Features</a> •
+ <a href="#Technologies">Technologies</a> •
+ <a href="#Contribution">Contribution</a> •
+ <a href="#License">License</a> •
+ <a href="#Author">Author</a>
+</p>
 
-### `npm start`
+# About
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/57778245/92289162-e1b6da80-eee5-11ea-99bd-6dd3cf5171c8.png" width="500px" />
+  <img src="https://user-images.githubusercontent.com/57778245/92289166-e4b1cb00-eee5-11ea-9a4a-5c0bfc0ecdf1.png" width="500px" />
+</div>
+<p> A application to explore the repositories from the GitHub API. This project are made on the GoStack Bootcamp from Rocketseat! </p>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+### Features
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+- [x] Create routes
+- [x] Using Styled Components
+- [x] Connect to GitHub API
+- [x] Saving in Storage
+- [x] Navigating in routes
+- [x] Final styles
+- [x] Listing the issues from API
 
-### `npm test`
+# Techlogies
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+# Contribution
 
-### `npm run build`
+# License
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
+# Author
