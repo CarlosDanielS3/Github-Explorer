@@ -25,8 +25,7 @@
 
 # About
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/57778245/92289162-e1b6da80-eee5-11ea-99bd-6dd3cf5171c8.png" width="500px" />
-  <img src="https://user-images.githubusercontent.com/57778245/92289166-e4b1cb00-eee5-11ea-9a4a-5c0bfc0ecdf1.png" width="500px" />
+https://github.com/CarlosDanielS3/Github-Explorer/blob/main/screenshots/GithubExplorer.gif
 </div>
 <p> A application to explore the repositories from the GitHub API. This project are made on the GoStack Bootcamp from Rocketseat! </p>
 
